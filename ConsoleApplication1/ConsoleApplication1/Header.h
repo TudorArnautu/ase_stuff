@@ -1,0 +1,1 @@
+void printNumbers(int[], int);

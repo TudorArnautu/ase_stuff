@@ -1,0 +1,37 @@
+﻿Build started 04.12.2014 17:49:08.
+     1>Project "C:\Users\Tudor.Tudor.000\documents\visual studio 2013\Projects\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt seminar9.cpp
+         seminar9.cpp
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.h(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.h(137): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.h(150): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.h(172): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.h(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.h(252): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.h(269): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.cpp(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.cpp(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.cpp(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.cpp(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\tudor.tudor.000\documents\visual studio 2013\projects\consoleapplication11\consoleapplication11\seminar9.h(35): warning C4715: 'concurs::nr_total_puncte' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tudor.Tudor.000\documents\visual studio 2013\Projects\ConsoleApplication11\Debug\ConsoleApplication11.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tudor.Tudor.000\documents\visual studio 2013\Projects\ConsoleApplication11\Debug\ConsoleApplication11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tudor.Tudor.000\documents\visual studio 2013\Projects\ConsoleApplication11\Debug\ConsoleApplication11.lib" /MACHINE:X86 Debug\seminar9.obj
+         ConsoleApplication11.vcxproj -> C:\Users\Tudor.Tudor.000\documents\visual studio 2013\Projects\ConsoleApplication11\Debug\ConsoleApplication11.exe
+     1>Done Building Project "C:\Users\Tudor.Tudor.000\documents\visual studio 2013\Projects\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.29

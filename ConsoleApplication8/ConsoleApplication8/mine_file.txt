@@ -1,0 +1,8 @@
+5344544
+4	par
+4	par
+5	impar
+4	par
+4	par
+3	impar
+5	impar
